@@ -36,7 +36,7 @@
            NSLog(@"请求成功：%@", responseObject);
        } failure:^(NSURLSessionDataTask * _Nullable task, NSError * _Nonnull error) {
            // 请求失败回调
-           NSLog(@"请求失败：%@", error);
+           NSLog(@"请求失败33333：%@", error);
        }];
 }
 
