@@ -19,6 +19,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
+      NSLog(@"我提交代码次了");
+
     self.view.backgroundColor = [UIColor redColor];
     
     UIButton *btn = [[UIButton alloc ] initWithFrame:CGRectMake(100, 200, 50, 100)];
