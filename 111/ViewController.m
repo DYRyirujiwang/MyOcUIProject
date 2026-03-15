@@ -51,8 +51,6 @@
     NSLog(@"推到远端选择上一次的回滚呢");
 
     NSLog(@"推到远端选择you一次的回滚呢");
-    
-    NSLog(@"ttttttt");
 
     NSLog(@"ttttttt66666");
 
