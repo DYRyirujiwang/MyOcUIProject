@@ -35,7 +35,8 @@
     NSLog(@"按钮被点击了！按钮标题：%@", sender.currentTitle);
     // 示例逻辑：跳转页面、修改UI、发起网络请求等
     // 比如修改按钮标题
-    [sender setTitle:@"已点击" forState:UIControlStateNormal];
+    [sender setTitle:@"已点击mm" forState:UIControlStateNormal];
+    
 }
 
 
