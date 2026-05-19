@@ -24,7 +24,7 @@
     // Do any additional setup after loading the view.
 //    self.view.backgroundColor = [UIColor yellowColor];
     
-    [self.btn setTitle:@"点击我" forState:UIControlStateNormal];
+    [self.btn setTitle:@"点击我de名字" forState:UIControlStateNormal];
     [self.btn setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];
 }
 
